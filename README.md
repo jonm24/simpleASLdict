@@ -1,1 +1,1 @@
-an attempt at creating an American Sign Language "dictionary" using youtube
+an attempt at creating an American Sign Language "dictionary" using YouTube
